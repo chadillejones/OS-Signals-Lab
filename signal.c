@@ -1,4 +1,5 @@
 /* hello_signal.c */
+//Collaborated with David Daniels
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
